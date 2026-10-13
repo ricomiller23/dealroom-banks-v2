@@ -1,0 +1,7 @@
+@import "tailwindcss";
+:root{--brand:#0071E3;--bright:#2997FF;--ink:#1D1D1F;--muted:#6E6E73;--ground:#F5F5F7;--card:#fff;--border:#D2D2D7;--amber:#FF9F0A;--red:#FF3B30;--rail:#0B1220}
+@theme{--color-brand:#0071E3;--color-bright:#2997FF;--color-ink:#1D1D1F;--color-muted:#6E6E73;--color-ground:#F5F5F7;--color-border:#D2D2D7;--color-rail:#0B1220}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;color:var(--ink);background:var(--ground);margin:0}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+.present body, .present main{font-size:1.15rem}
+::-webkit-scrollbar{width:6px;height:6px}::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:3px}

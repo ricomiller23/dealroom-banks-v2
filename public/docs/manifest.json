@@ -1,0 +1,101 @@
+[
+ {
+  "code": "D-01",
+  "title": "Offering Summary - Common Stock",
+  "category": "Offering",
+  "file": "Larkspur_Offering_Summary.pdf",
+  "format": "PDF",
+  "bytes": 2350,
+  "sha256": "61dc2a76372433e3e79c92b6d6dd1698a8778a344666e2ea437e525a57d02fbf"
+ },
+ {
+  "code": "D-02",
+  "title": "Business Plan - Executive Summary",
+  "category": "Strategy",
+  "file": "Larkspur_Business_Plan_Executive_Summary.pdf",
+  "format": "PDF",
+  "bytes": 1528,
+  "sha256": "a797816926eab6d128196a5d441132c2e52c063631d7eb7d2d3d10e632e6539f"
+ },
+ {
+  "code": "D-03",
+  "title": "3-Year Pro Forma Financial Model",
+  "category": "Financials",
+  "file": "Larkspur_Pro_Forma_Financial_Model.xlsx",
+  "format": "XLSX",
+  "bytes": 3608,
+  "sha256": "2b8b3bec73b47116706d382ca6ba6d765ddfe832af88248462c8cf5f34acc9d7"
+ },
+ {
+  "code": "D-04",
+  "title": "Regulatory Approval Roadmap",
+  "category": "Regulatory",
+  "file": "Larkspur_Regulatory_Approval_Roadmap.pdf",
+  "format": "PDF",
+  "bytes": 1287,
+  "sha256": "c9de3abcfa004e5a8be6d8bdf4762050f5c371f5d44354007197931e46af7fc6"
+ },
+ {
+  "code": "D-05",
+  "title": "Organizers & Proposed Board",
+  "category": "Governance",
+  "file": "Larkspur_Organizers_and_Board.pdf",
+  "format": "PDF",
+  "bytes": 1197,
+  "sha256": "89ea9b1d1dde54ec4caefccc2a81edd9d31d7cadf54eab3fea675411a81eb4b9"
+ },
+ {
+  "code": "D-06",
+  "title": "Service Area Market Study",
+  "category": "Market",
+  "file": "Larkspur_Market_Study.pdf",
+  "format": "PDF",
+  "bytes": 1153,
+  "sha256": "fba7bea4bdf654b03fc8d0f87b04353d6ff1257a5523911188c26a0ddecfac53"
+ },
+ {
+  "code": "D-07",
+  "title": "Subscription Agreement (Sample Form)",
+  "category": "Legal",
+  "file": "Larkspur_Subscription_Agreement_Sample_Form.docx",
+  "format": "DOCX",
+  "bytes": 2164,
+  "sha256": "bb022bb3deb179cc9395e67efe3c9ae09b4ddddb0aecfaf304fa05b8c2c9672f"
+ },
+ {
+  "code": "D-08",
+  "title": "Escrow Agreement Summary",
+  "category": "Legal",
+  "file": "Larkspur_Escrow_Agreement_Summary.pdf",
+  "format": "PDF",
+  "bytes": 1286,
+  "sha256": "f5fb5522591015b826d4e7afb9cba33d77f48de5f6d36640758d21fc655736f5"
+ },
+ {
+  "code": "D-09",
+  "title": "Cap Table & Dilution Model",
+  "category": "Capitalization",
+  "file": "Larkspur_Cap_Table_Dilution_Model.xlsx",
+  "format": "XLSX",
+  "bytes": 3280,
+  "sha256": "a5b695f63749dce71afdf3acd52001dddf5d81715a0ec30552d9c391823e1b26"
+ },
+ {
+  "code": "D-10",
+  "title": "Accreditation Questionnaire (Sample)",
+  "category": "Compliance",
+  "file": "Larkspur_Accreditation_Questionnaire_Sample.docx",
+  "format": "DOCX",
+  "bytes": 1998,
+  "sha256": "3c63375be78186634a1afa2a5a4288f69dec5700103e84fa90e3077a2ad1b9e9"
+ },
+ {
+  "code": "D-11",
+  "title": "Risk Factors Summary",
+  "category": "Compliance",
+  "file": "Larkspur_Risk_Factors_Summary.pdf",
+  "format": "PDF",
+  "bytes": 1238,
+  "sha256": "b187a18bca9c2d85a571a0e81fe0fe12811c832adf1c7a6bd59bcc93b1af9388"
+ }
+]
